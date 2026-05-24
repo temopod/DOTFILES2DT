@@ -17,3 +17,10 @@ This setup automates the installation and configuration of a modern CLI environm
   - `fzf` (Command-line fuzzy finder)
   - `zoxide` (Smart `cd` alternative)
 - **Neovim IDE:** Configured via `lazy.nvim` with a file explorer (Neo-tree), syntax highlighting (Treesitter), fuzzy finding (Telescope), a status line (Lualine), and LSP support.
+
+## How to Install
+
+Run the following command inside the target machine to clone the repository and execute the setup script:
+
+```bash
+git clone [https://github.com/temopod/DOTFILES2DT.git](https://github.com/temopod/DOTFILES2DT.git) && cd DOTFILES2DT && bash setup.sh
