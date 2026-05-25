@@ -32,8 +32,8 @@ sudo apt install -y "${PACKAGES[@]}"
 echo "Packages installed successfully."
 
 # 2. Clone or Update the dotfiles repository
-DOTFILES_DIR="$HOME/DOTFILES2D"
-REPO_URL="https://github.com/FrameBard/DOTFILES2D.git"
+DOTFILES_DIR="$HOME/DOTFILES2DT"
+REPO_URL="https://github.com/temopod/DOTFILES2DT.git"
 
 if [ -d "$DOTFILES_DIR" ]; then
     echo "📂 Updating dotfiles..."
