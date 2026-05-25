@@ -23,4 +23,4 @@ This setup automates the installation and configuration of a modern CLI environm
 Run the following command inside the target machine to clone the repository and execute the setup script:
 
 ```bash
-git clone [https://github.com/temopod/DOTFILES2DT.git](https://github.com/temopod/DOTFILES2DT.git) && cd DOTFILES2DT && bash setup.sh
+git clone https://github.com/temopod/DOTFILES2DT.git && cd DOTFILES2DT && bash setup.sh
